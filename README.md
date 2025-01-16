@@ -25,6 +25,9 @@ Conclusion:
 The project successfully trained an image recognition model with four categories of accessories. The model was exported in TensorFlow format and integrated into a Python script to make predictions. The model performed well, demonstrating its ability to classify images into the correct categories.
 ________________________________________
 GitHub Repository:
-https://github.com/AmalAlbaraiki/AI-Model-for-Accessory-Recognition________________________________________
+https://github.com/AmalAlbaraiki/AI-Model-for-Accessory-Recognition
+AI.ipynb[https://colab.research.google.com/drive/12JQdiKFN3hTQuUaWSP5wnmPhjF-q3rGH?usp=sharing]
+teachablemachine[https://teachablemachine.withgoogle.com/train/image/1rpWceTBnQP5PcUky_cX2Ad_qNmiYqhiq]
+________________________________________
 	 
    
